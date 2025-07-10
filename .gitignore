@@ -1,0 +1,11 @@
+# Java
+*.class
+target/
+out/
+
+# IDEs
+.idea/
+*.iml
+
+# OS
+.DS_Store
